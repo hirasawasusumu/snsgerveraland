@@ -1,18 +1,34 @@
-function showPanel(panelName) {
-    const content = document.getElementById('content');
-    switch(panelName) {
-        case 'home':
-            content.innerHTML = "<p>ホームパネルが表示されました。</p>";
-            break;
-        case 'news':
-            content.innerHTML = "<p>ニュースパネルが表示されました。</p>";
-            break;
-        case 'profile':
-            content.innerHTML = "<p>プロフィールパネルが表示されました。</p>";
-            break;
-        default:
-            content.innerHTML = "<p>ここにコンテンツが表示されます。</p>";
-    }
+body {youworknewwork!!!!!
+  canaywaylam!!!!!!!
+  urllingarhats.cron.lan.
+    font-family: Arial, sans-serif;
+    background-color: #001f3f; /* ウォーターブルー風 */
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
 }
+.header {
+    background-color: #003366;
+    padding: 20px;
+    text-align: center;
+}
+.nav-panel {
+    display: flex;
+    justify-content: center;
+    background-color: #0055aa;
+    padding: 10px;
+}
+.nav-panel button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #ff8800; /* 刺し色オレンジ */
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+.content-panel {
+    padding: 20px;
+}
+
 # snsgerveraland
 SNSLAND
