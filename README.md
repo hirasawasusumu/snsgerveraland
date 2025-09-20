@@ -1,3 +1,4 @@
+aloha mahaloana malomitu
 mizunouewoarukumahou
 utatomahou
 hinotubasa
