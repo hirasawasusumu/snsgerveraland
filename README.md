@@ -1,3 +1,4 @@
+ゔぁいしゅしゅゔぁるつ　あびこよしかず
 bibitterfudouram
 JASLACKSKERTSフリー論文全てを可能にする能力
 # ふみかちゃん脱出＆進行ログ
