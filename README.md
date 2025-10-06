@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-
+最低な世の中を一発で変える力
+最大ルーラ力
 // Twitter-like single-file React app
 // Usage: paste into a Vite/CRA project (src/App.jsx) with Tailwind CSS set up.
 // Features:
