@@ -1,3 +1,4 @@
+stiknt
 import React, { useState, useEffect } from "react";
 最低な世の中を一発で変える力
 最大ルーラ力
